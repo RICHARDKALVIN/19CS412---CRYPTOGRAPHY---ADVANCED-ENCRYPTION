@@ -84,7 +84,8 @@ return 0;
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-03-05 113517](https://github.com/AlluguriSrikrishnateja/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118343892/b96f8704-db74-4fb0-835d-078d58644625)
+![new1](https://github.com/RICHARDKALVIN/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119404920/4107a230-45a6-4d39-9f27-324372d87330)
+
 
 
 ## RESULT :
@@ -242,7 +243,8 @@ return 0;
 ```
 ## OUTPUT:
 
-<img width="342" alt="image" src="https://github.com/AlluguriSrikrishnateja/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118343892/a3f5b0fa-ef81-4215-9521-2a16c87cef68">
+![new2](https://github.com/RICHARDKALVIN/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119404920/81fa6d25-e3dc-4ed8-aaf4-af649b04e2f8)
+
 
 
 ## RESULT: 
@@ -290,7 +292,8 @@ print("decrypted string: ", decMessage)
 ```
 ## OUTPUT:
 
-<img width="756" alt="image" src="https://github.com/AlluguriSrikrishnateja/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118343892/23e74c08-7cea-4381-b9fe-97e247b17470">
+![new 3](https://github.com/RICHARDKALVIN/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119404920/2c18513c-f02f-47df-b0e2-efb28ce7ed8b)
+
 
 ## RESULT:
 
